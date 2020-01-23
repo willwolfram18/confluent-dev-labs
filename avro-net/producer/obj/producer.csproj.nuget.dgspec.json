@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/training/confluent-dev/labs/avro-net/producer/producer.csproj": {}
+  },
+  "projects": {
+    "/home/training/confluent-dev/labs/avro-net/producer/producer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/training/confluent-dev/labs/avro-net/producer/producer.csproj",
+        "projectName": "producer",
+        "projectPath": "/home/training/confluent-dev/labs/avro-net/producer/producer.csproj",
+        "packagesPath": "/home/training/.nuget/packages/",
+        "outputPath": "/home/training/confluent-dev/labs/avro-net/producer/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/training/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "Confluent.Kafka.Avro": {
+              "target": "Package",
+              "version": "[0.11.6, )"
+            },
+            "Confluent.SchemaRegistry": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "Confluent.SchemaRegistry.Serdes": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "MQTTnet": {
+              "target": "Package",
+              "version": "[3.0.8, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/home/training/confluent-dev/labs/avro-net/producer/bin/Debug/netcoreapp2.2/VehiclePositionProducer.deps.json
+/home/training/confluent-dev/labs/avro-net/producer/bin/Debug/netcoreapp2.2/VehiclePositionProducer.runtimeconfig.json
+/home/training/confluent-dev/labs/avro-net/producer/bin/Debug/netcoreapp2.2/VehiclePositionProducer.runtimeconfig.dev.json
+/home/training/confluent-dev/labs/avro-net/producer/bin/Debug/netcoreapp2.2/VehiclePositionProducer.dll
+/home/training/confluent-dev/labs/avro-net/producer/bin/Debug/netcoreapp2.2/VehiclePositionProducer.pdb
+/home/training/confluent-dev/labs/avro-net/producer/obj/Debug/netcoreapp2.2/VehiclePositionProducer.csprojAssemblyReference.cache
+/home/training/confluent-dev/labs/avro-net/producer/obj/Debug/netcoreapp2.2/VehiclePositionProducer.csproj.CoreCompileInputs.cache
+/home/training/confluent-dev/labs/avro-net/producer/obj/Debug/netcoreapp2.2/VehiclePositionProducer.AssemblyInfoInputs.cache
+/home/training/confluent-dev/labs/avro-net/producer/obj/Debug/netcoreapp2.2/VehiclePositionProducer.AssemblyInfo.cs
+/home/training/confluent-dev/labs/avro-net/producer/obj/Debug/netcoreapp2.2/VehiclePositionProducer.dll
+/home/training/confluent-dev/labs/avro-net/producer/obj/Debug/netcoreapp2.2/VehiclePositionProducer.pdb

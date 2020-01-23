@@ -1,0 +1,11 @@
+/home/training/confluent-dev/labs/create-producer-net/producer/bin/Debug/netcoreapp2.2/producer.deps.json
+/home/training/confluent-dev/labs/create-producer-net/producer/bin/Debug/netcoreapp2.2/producer.runtimeconfig.json
+/home/training/confluent-dev/labs/create-producer-net/producer/bin/Debug/netcoreapp2.2/producer.runtimeconfig.dev.json
+/home/training/confluent-dev/labs/create-producer-net/producer/bin/Debug/netcoreapp2.2/producer.dll
+/home/training/confluent-dev/labs/create-producer-net/producer/bin/Debug/netcoreapp2.2/producer.pdb
+/home/training/confluent-dev/labs/create-producer-net/producer/obj/Debug/netcoreapp2.2/producer.csprojAssemblyReference.cache
+/home/training/confluent-dev/labs/create-producer-net/producer/obj/Debug/netcoreapp2.2/producer.csproj.CoreCompileInputs.cache
+/home/training/confluent-dev/labs/create-producer-net/producer/obj/Debug/netcoreapp2.2/producer.AssemblyInfoInputs.cache
+/home/training/confluent-dev/labs/create-producer-net/producer/obj/Debug/netcoreapp2.2/producer.AssemblyInfo.cs
+/home/training/confluent-dev/labs/create-producer-net/producer/obj/Debug/netcoreapp2.2/producer.dll
+/home/training/confluent-dev/labs/create-producer-net/producer/obj/Debug/netcoreapp2.2/producer.pdb
